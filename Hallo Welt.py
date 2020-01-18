@@ -6,6 +6,8 @@ liste = "amazing excited amazing gorgeous blazing stunning bold stunning biggest
     magical revolutionary beautiful".upper().split()
 shuffle(liste)
 
+#Code
+
 for strophe in range(5):
     for n in range(2):
         for i in range(4):
